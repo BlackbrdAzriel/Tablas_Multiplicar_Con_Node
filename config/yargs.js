@@ -23,6 +23,7 @@ const argv = require('yargs')
                     alias: 'hasta',
                     type: 'number',
                     default: 10,
+                    describe: 'Sirve para dar limite a la tabla de multiplicar por ejemplo que multiplique hasta el 20 o 30'
 
                 })
 
