@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  },
+  "name": "nodebases",
+  "version": "0.0.1",
+  "description": "Aplicacion que maneja tablas de multiplicar y que añade un archivo de texto con la salida la app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azriel Blackbrd",
+  "license": "ISC"
+}
